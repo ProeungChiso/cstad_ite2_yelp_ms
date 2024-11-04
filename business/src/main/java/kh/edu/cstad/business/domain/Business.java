@@ -22,7 +22,7 @@ public class Business {
     @Column(unique = true, nullable = false)
     private String alias;
 
-    @Column(unique = false, nullable = false)
+    @Column(nullable = false)
     private String username;
 
     @Column(unique = true, nullable = false)

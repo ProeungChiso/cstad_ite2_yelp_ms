@@ -1,13 +1,13 @@
-package kh.edu.cstad.idenity;
+package kh.edu.cstad.identify;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IdenityApplication {
+public class IdentifyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IdenityApplication.class, args);
+		SpringApplication.run(IdentifyApplication.class, args);
 	}
 
 }

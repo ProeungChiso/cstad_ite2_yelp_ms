@@ -13,11 +13,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/idenity" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/identify" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/idenity" />
+            <option value="$PROJECT_DIR$/identify" />
           </set>
         </option>
       </GradleProjectSettings>

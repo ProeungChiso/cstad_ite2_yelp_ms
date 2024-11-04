@@ -7,8 +7,16 @@
         <processorPath useClasspath="false">
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.34/ec547ef414ab1d2c040118fb9c1c265ada63af14/lombok-1.18.34.jar" />
         </processorPath>
-        <module name="idenity.main" />
+        <module name="product.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="idenity" target="21" />
+      <module name="idenity.main" target="21" />
+      <module name="idenity.test" target="21" />
+      <module name="identify" target="21" />
+      <module name="identify.main" target="21" />
+      <module name="identify.test" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

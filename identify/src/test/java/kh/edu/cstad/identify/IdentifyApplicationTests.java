@@ -1,10 +1,10 @@
-package kh.edu.cstad.idenity;
+package kh.edu.cstad.identify;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IdenityApplicationTests {
+class IdentifyApplicationTests {
 
 	@Test
 	void contextLoads() {
