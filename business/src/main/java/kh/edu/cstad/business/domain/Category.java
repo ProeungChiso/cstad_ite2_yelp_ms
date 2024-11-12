@@ -27,6 +27,4 @@ public class Category {
 
     private String icon;
 
-
-
 }
